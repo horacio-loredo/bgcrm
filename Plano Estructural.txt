@@ -1,0 +1,7 @@
+
+Plano Esctructural CRM Cobranza
+
+1.- Login con Administrador y usuario / Login con Roles de estructuracion
+2.- Vistas de administrador
+3.- Vista de usuario
+4.- etc..
