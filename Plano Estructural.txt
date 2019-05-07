@@ -5,3 +5,8 @@ Plano Esctructural CRM Cobranza
 2.- Vistas de administrador
 3.- Vista de usuario
 4.- etc..
+
+
+
+
+Faltan mas pero es para iniciar
